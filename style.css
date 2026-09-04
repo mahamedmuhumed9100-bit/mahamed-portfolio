@@ -299,6 +299,12 @@ a { color: inherit; }
   margin: 0 0 1rem;
 }
 
+.project-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem 1rem;
+}
+
 .project-links a {
   text-decoration: none;
   font-weight: 600;
