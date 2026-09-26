@@ -277,6 +277,19 @@ a { color: inherit; }
   box-shadow: var(--card-shadow);
 }
 
+.project-card--featured {
+  grid-column: 1 / -1;
+  border: 2px solid var(--accent);
+}
+
+.featured-label {
+  display: inline-block;
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: var(--accent);
+  margin-bottom: 0.5rem;
+}
+
 .project-card-head {
   display: flex;
   justify-content: space-between;
