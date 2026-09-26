@@ -9,8 +9,8 @@ build step — and hosted on GitHub Pages.
 | Project | Stack | Highlights |
 |---|---|---|
 | [**JobTracker**](https://github.com/mahamedmuhumed9100-bit/job-tracker) | ASP.NET Core MVC · EF Core · PostgreSQL · Docker | Identity auth, one-to-many status history, 16 xUnit tests, CI, [live on Render](https://jobtracker-j294.onrender.com) |
-| [**Algorithm Visualizer**](https://github.com/mahamedmuhumed9100-bit/algo-visualizer) | React 19 · Vite · Vitest | 6 sorting + 4 pathfinding algorithms from scratch, 68 tests, CI/CD to [GitHub Pages](https://mahamedmuhumed9100-bit.github.io/algo-visualizer/) |
-| [**Eddy AI**](https://github.com/mahamedmuhumed9100-bit/eddy-ai) | Flask · OpenAI · SQLite · pytest | Validated structured LLM output, per-user history, CSRF, role-based admin, 23 tests |
+| [**Algorithm Visualizer**](https://github.com/mahamedmuhumed9100-bit/algo-visualizer) | React 19 · Vite · Vitest | 6 sorting + 4 pathfinding algorithms from scratch, hand-written binary heap, 100 tests, CI/CD to [GitHub Pages](https://mahamedmuhumed9100-bit.github.io/algo-visualizer/) |
+| [**Eddy AI**](https://github.com/mahamedmuhumed9100-bit/eddy-ai) | Flask · OpenAI · SQLite · pytest | Validated structured LLM output, per-user history, CSRF, rate limiting, role-based admin, 29 tests |
 
 ## How the site works
 
